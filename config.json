@@ -1,0 +1,7 @@
+{
+    "debug":
+    {
+        "filename": "debug.log",
+        "level": "2"
+    }
+}
